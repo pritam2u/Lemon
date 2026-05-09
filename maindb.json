@@ -1,0 +1,91 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "827ccb0eea8a706c4c34a16891f84e7b",
+    "loginToken": "",
+    "logs": [
+      {
+        "time": "2026-05-04T22:37:31.244Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 132): [/tmp/brut_util_Jar_8286317086501908470.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL8270954093365856950.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:42:43.264Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 132): [/tmp/brut_util_Jar_7288472552869101826.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL2237430895184258587.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:42:59.159Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 132): [/tmp/brut_util_Jar_5323440221342784077.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL1102058427703956816.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:46:41.728Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 132): [/tmp/brut_util_Jar_8381873688136314900.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL1311988651193042424.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:47:02.893Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 132): [/tmp/brut_util_Jar_9114523735526044567.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL3701040172962849960.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:49:16.429Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" -p /usr/bin/aapt\nbrut.androlib.AndrolibException: --frame-path is set to a file, not a directory.\n"
+      },
+      {
+        "time": "2026-05-04T22:49:28.453Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" -p /usr/bin/aapt\nbrut.androlib.AndrolibException: --frame-path is set to a file, not a directory.\n"
+      },
+      {
+        "time": "2026-05-04T22:52:13.805Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" --aapt /usr/bin/aapt\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 134): [/usr/bin/aapt, p, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL3452934839821671039.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\nW: First type is not attr!\n"
+      },
+      {
+        "time": "2026-05-04T22:55:50.127Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" -r\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 132): [/tmp/brut_util_Jar_7900284479597521297.tmp, p, --forced-package-id, 127, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL8609078189380649748.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:58:26.924Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" -r --aapt /usr/bin/aapt\nW: First type is not attr!\nW: 05-04 22:58:26.843 17679 17679 F aapt    : First type is not attr!\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 134): [/usr/bin/aapt, p, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL2018649405458894476.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:59:05.171Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" -r --aapt /usr/bin/aapt\nW: First type is not attr!\nW: 05-04 22:59:05.073 17739 17739 F aapt    : First type is not attr!\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 134): [/usr/bin/aapt, p, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL8414411083139698906.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T22:59:34.643Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" -r --aapt /usr/bin/aapt\nW: First type is not attr!\nW: 05-04 22:59:34.588 17881 17881 F aapt    : First type is not attr!\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 134): [/usr/bin/aapt, p, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL4042251262533602693.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2026-05-04T23:02:51.016Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/L3MON/app/factory/apktool.jar\" b \"/root/L3MON/app/factory/decompiled\" -o \"/root/L3MON/assets/webpublic/build.apk\" --aapt /usr/bin/aapt\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 134): [/usr/bin/aapt, p, --min-sdk-version, 11, --target-sdk-version, 24, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /tmp/APKTOOL5647047046387686092.tmp, -0, arsc, -0, png, -0, arsc, -I, /root/.local/share/apktool/framework/1.apk, -S, /root/L3MON/app/factory/decompiled/res, -M, /root/L3MON/app/factory/decompiled/AndroidManifest.xml]\nW: First type is not attr!\nW: 05-04 23:02:50.943 18593 18593 F aapt    : First type is not attr!\n"
+      },
+      {
+        "time": "2026-05-04T23:06:06.115Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2026-05-04T23:46:28.815Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2026-05-04T23:46:50.552Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
