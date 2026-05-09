@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project closed <a href="https://t.me/+egpQDeBtGk8wYWU1"> Join for 100% free tools and education </a>.
 <p align="center">
 <img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
@@ -103,3 +104,7 @@ L3MON is built for both Educational and Internal use ONLY.</b>
 <p align="center">Made with ❤️ By <a href="//d3vl.com">D3VL</a></p>
 <p align="center"><a href="https://t.me/+egpQDeBtGk8wYWU1">Telegram</a></p>
 <p align="center" style="font-size: 8px">v1.1.2 <a href="https://github.com/D3VL/L3MON">Credit!</a></p>
+=======
+# Lemon
+Lemon project
+>>>>>>> 72b08a7095a258f5373594aaaa57c39062d82989
